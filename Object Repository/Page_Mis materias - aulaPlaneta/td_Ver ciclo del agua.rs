@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Ver ciclo del agua</name>
+   <tag></tag>
+   <elementGuidId>c5ff8790-779d-47e2-9247-cac4ac8f3029</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id='textButtonContainer']/tbody/tr/td)[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#roundbutton_14 > #textButtonContainer > tbody > tr > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>491fdc8c-990f-4818-ba4d-3a553f51aa18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver ciclo del agua</value>
+      <webElementGuid>88ce18df-9380-4d11-a5f6-227fe742c8d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;roundbutton_14&quot;)/table[@id=&quot;textButtonContainer&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>28c076b3-e6b5-4677-a8af-d277ead838e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_verciclodelagua</value>
+      <webElementGuid>0f4fd0e0-a9f8-4e10-9327-8c0f442be178</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//table[@id='textButtonContainer']/tbody/tr/td)[5]</value>
+      <webElementGuid>e0d1912b-9048-4bf8-8085-0ce3337f55e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtración'])[1]/following::td[1]</value>
+      <webElementGuid>24a5b7ad-0145-4da9-8e2a-8fabbb7d78c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precipitación'])[1]/following::td[2]</value>
+      <webElementGuid>2c9caf7e-038e-4e4d-9422-a820e4177430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Esquema del ciclo del agua'])[1]/preceding::td[1]</value>
+      <webElementGuid>e0d2c015-307b-43b8-ad0c-e5d9579f3593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/table/tbody/tr/td</value>
+      <webElementGuid>ae26cae1-4e6a-41bf-a0d9-f77ad6693cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Ver ciclo del agua' or . = 'Ver ciclo del agua')]</value>
+      <webElementGuid>51482b7a-bd0f-4b18-a221-8a6a338ed14f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_logoutCerrar sesin</name>
+   <tag></tag>
+   <elementGuidId>de0f6393-4550-4a1e-9f4b-aa64b5d46697</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.mat-menu-item.ng-tns-c133-3.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mat-menu-panel-0']/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ab8cd651-33f6-4fb1-8321-b798626065df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a266c285-52b5-49fb-959d-f08378306e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator mat-menu-item ng-tns-c133-3 cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>9605276c-12ad-44be-a071-bc7b54b5f266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bd726eff-4272-4fe4-adaa-530e04862326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>98ed810f-ad96-4188-80f1-3eb57f02c4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>logoutCerrar sesión</value>
+      <webElementGuid>85353c7a-21b3-408e-b751-22f3e4acb706</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-menu-panel-0&quot;)/div[@class=&quot;mat-menu-content ng-tns-c133-3&quot;]/button[@class=&quot;mat-focus-indicator mat-menu-item ng-tns-c133-3 cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>b160203e-ced7-4d72-9e5e-456583d64e76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mat-menu-panel-0']/div/button[2]</value>
+      <webElementGuid>63aab40c-297e-447b-adff-54fe8fdf451d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi perfil'])[1]/following::button[1]</value>
+      <webElementGuid>f7188f05-c0f2-4efe-aabd-4fcd8efe5e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionado correctamente'])[1]/following::button[2]</value>
+      <webElementGuid>db83ad60-a342-4fb8-8a2b-eddf95e556b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mi perfil'])[2]/preceding::button[1]</value>
+      <webElementGuid>6098e064-0ebb-415c-99dd-3af835650b73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button[2]</value>
+      <webElementGuid>494ae303-cb76-40f5-b03f-94ba713a6593</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'logoutCerrar sesión' or . = 'logoutCerrar sesión')]</value>
+      <webElementGuid>36f4feec-602e-4fc3-be9e-34c46ba745b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

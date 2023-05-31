@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_30_Esquema2</name>
+   <tag></tag>
+   <elementGuidId>9997793a-f664-41a4-92b5-1b7cc18eb131</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=&quot;image_30&quot;]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title.font-weight-bold.pt-3.pr-2.pb-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b56be016-a13a-4a81-bb38-ea49a839457e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title font-weight-bold pt-3 pr-2 pb-2</value>
+      <webElementGuid>c5a6c6c5-a004-4864-b747-94629720109c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>El ciclo del agua</value>
+      <webElementGuid>f0289593-efe0-41a6-a4f0-2271618b9e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recursos-results&quot;)/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport vsv-body cdk-virtual-scroll-orientation-vertical ng-star-inserted&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/table[@class=&quot;mat-table cdk-table mat-sort w-100 mb-5 default-table&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row base card-row marronMS ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cursor-pointer cdk-column-titulo mat-column-titulo ng-star-inserted&quot;]/div[@class=&quot;d-flex align-items-start card-cell card-cell__start custom-bg__light&quot;]/span[@class=&quot;title font-weight-bold pt-3 pr-2 pb-2&quot;]</value>
+      <webElementGuid>291aabc1-2ddb-4fb5-963c-1b5f8e30240c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_Esquemadelciclodelagua</value>
+      <webElementGuid>3f847d44-1cd1-4432-834e-d17354cb3844</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;image_30&quot;]/img</value>
+      <webElementGuid>268e0a7a-ae08-4e13-b9bf-3f7241bc52ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

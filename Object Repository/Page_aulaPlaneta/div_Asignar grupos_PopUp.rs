@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Asignar grupos_PopUp</name>
+   <tag></tag>
+   <elementGuidId>b22e83c6-3490-4ec4-924d-6d2bbccc5857</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cdk-overlay-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4f7ed9f-4991-428e-95cf-e48f7819a3cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cdk-overlay-3</value>
+      <webElementGuid>4ca4d57d-58dd-4afc-82b0-0c15965ccdbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cdk-overlay-pane position-relative</value>
+      <webElementGuid>19829c17-d433-4514-9080-9bbeb44fefc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asignar gruposSelecciona las clases o grupos a los que quieras asignar la materia personalizada: Libro_Profesor_estres_1 Clases  Asignación 5 PRI A 5 PRI B 5 PRI C 5 PRI D 5 PRI E CancelarAceptar</value>
+      <webElementGuid>8c220d9e-0878-4ba8-93d4-5b027eb96b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-3&quot;)</value>
+      <webElementGuid>086a9de8-7655-410b-a01c-617329a9b37c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-3']</value>
+      <webElementGuid>dc222b5f-adbc-4bcc-a18a-d7c3b6462dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conoce el entorno de aprendizaje'])[1]/following::div[5]</value>
+      <webElementGuid>215602df-f018-42f8-8899-c685b29c9f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alumnado'])[1]/following::div[5]</value>
+      <webElementGuid>a4622dda-d403-4d76-94c1-43183e28f0e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>a41c68f5-b2b3-408c-aadc-e6fba8e0d63c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cdk-overlay-3' and (text() = 'Asignar gruposSelecciona las clases o grupos a los que quieras asignar la materia personalizada: Libro_Profesor_estres_1 Clases  Asignación 5 PRI A 5 PRI B 5 PRI C 5 PRI D 5 PRI E CancelarAceptar' or . = 'Asignar gruposSelecciona las clases o grupos a los que quieras asignar la materia personalizada: Libro_Profesor_estres_1 Clases  Asignación 5 PRI A 5 PRI B 5 PRI C 5 PRI D 5 PRI E CancelarAceptar')]</value>
+      <webElementGuid>111c6c07-ba18-4cba-970b-f91eba8599c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
