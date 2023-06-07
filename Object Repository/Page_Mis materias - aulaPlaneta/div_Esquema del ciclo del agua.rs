@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Esquema del ciclo del agua</name>
+   <tag></tag>
+   <elementGuidId>2b4b4ab8-08c4-4029-a015-195c8065390d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='realContent'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#roundbutton_16 > #textButtonContainer > tbody > tr > td > #realContent</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>614d1070-b18a-4836-bf97-114370be432b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>realContent</value>
+      <webElementGuid>da9c7617-db71-44cf-b569-ea6c138c66b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Esquema del ciclo del agua</value>
+      <webElementGuid>805fa787-7681-46c3-ad4b-2a0b460cbd28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;roundbutton_16&quot;)/table[@id=&quot;textButtonContainer&quot;]/tbody[1]/tr[1]/td[1]/div[@id=&quot;realContent&quot;]</value>
+      <webElementGuid>2f9d82ac-cbb5-4568-97ef-88c0852ed1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Mis materias - aulaPlaneta/iframe_Presentacin multimedia_material</value>
+      <webElementGuid>ab42aef8-bd33-4ba2-a3bd-440e78e13634</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='realContent'])[6]</value>
+      <webElementGuid>8765de31-dc1c-433b-9067-f5a2d2be9b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//table[@id='textButtonContainer']/tbody/tr/td/div)[6]</value>
+      <webElementGuid>2b916053-c157-41ef-91e6-1e14abd22c20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver ciclo del agua'])[1]/following::div[2]</value>
+      <webElementGuid>fa99b67c-8c8a-494c-8458-6c180ae079ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtración'])[1]/following::div[4]</value>
+      <webElementGuid>96146672-3c6b-4173-b682-6b2a50d3cfb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filtración'])[1]/preceding::div[2]</value>
+      <webElementGuid>db81387e-0b62-477d-8474-801d8378f476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Esquema del ciclo del agua']/parent::*</value>
+      <webElementGuid>49c5c57f-c7b9-4a75-a96f-4c6b72e1ec3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr/td/div</value>
+      <webElementGuid>59d67e99-72eb-4c33-ba86-133acf5c48a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'realContent' and (text() = 'Esquema del ciclo del agua' or . = 'Esquema del ciclo del agua')]</value>
+      <webElementGuid>59eedf84-e395-4566-a7ea-6ba8bb487d80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

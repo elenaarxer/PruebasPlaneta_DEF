@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ad2c919b-c495-434f-b2f7-d6ac61942b6d</testSuiteGuid>
    <testCaseLink>
-      <guid>0f6a0772-6795-4517-9c4b-b4f90da69afd</guid>
+      <guid>1d9ca92f-2fb5-41df-b48e-11b74b702baa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test 1_Video screenshots</testCaseId>
+      <testCaseId>Test Cases/Test Flujo 1</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

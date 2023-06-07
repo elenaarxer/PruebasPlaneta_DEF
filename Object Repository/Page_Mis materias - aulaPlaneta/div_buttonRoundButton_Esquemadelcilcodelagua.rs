@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f8774c2f-7c98-4dc6-88e6-74df76f4fccb</webElementGuid>
+      <webElementGuid>bbbc8df1-3497-421e-916f-d144c7d51841</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>image_30</value>
-      <webElementGuid>6b4e3a61-8a05-4342-8cb6-51ffe8ccb747</webElementGuid>
+      <webElementGuid>7d5f59e6-6ed9-4ca0-bd1f-e36c5970174a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>uiobject uiimage</value>
-      <webElementGuid>c2f5cf66-eced-4db4-a750-282163b87076</webElementGuid>
+      <webElementGuid>80d72b1c-5269-4394-b72c-afcd405a7095</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;image_30&quot;)</value>
-      <webElementGuid>e686db29-c875-4684-907d-dd348d69a00e</webElementGuid>
+      <webElementGuid>3f94ce97-1b5f-46d4-80a8-4cf6a285b98b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_verciclodelagua</value>
-      <webElementGuid>ac6fcf7a-6c6a-4f94-82b3-06bb3202614b</webElementGuid>
+      <value>Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_Esquema2</value>
+      <webElementGuid>e721a903-6345-4b27-9094-342c71b4cc3b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='roundbutton_16']</value>
-      <webElementGuid>25506dd3-0191-46b1-ade8-3917cfc4e853</webElementGuid>
+      <webElementGuid>f79abf63-48a1-4c69-b20f-abe37cdc443a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

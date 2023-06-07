@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img30Evaporacion</name>
+   <tag></tag>
+   <elementGuidId>9645fc7f-dcd5-45dc-8543-bf7dbf3bd41e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div[2]/div[1]/div[6]/div[1]/img</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/div[2]/div[1]/div[6]/div[1]/img</value>
+      <webElementGuid>1c1f83bc-ec6d-48ed-99e2-338ce72a5ade</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

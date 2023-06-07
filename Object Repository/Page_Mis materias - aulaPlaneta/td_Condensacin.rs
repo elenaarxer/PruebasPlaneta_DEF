@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Condensacin</name>
+   <tag></tag>
+   <elementGuidId>ea2a19d7-c0d2-43e6-bd12-816c86b7d327</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//table[@id='textButtonContainer']/tbody/tr/td)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#roundbutton_11 > #textButtonContainer > tbody > tr > td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>f032e8a0-62db-4f21-b371-b1a829bf5238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Condensación</value>
+      <webElementGuid>a51810f7-957f-4839-9ac4-59026c1ff4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;roundbutton_11&quot;)/table[@id=&quot;textButtonContainer&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>334cb3c5-547e-4038-af74-84d960987d3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Mis materias - aulaPlaneta/iframe_Presentacin multimedia_material</value>
+      <webElementGuid>8f455b3b-a3f7-425b-88da-2eb06146ce5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//table[@id='textButtonContainer']/tbody/tr/td)[2]</value>
+      <webElementGuid>0263a39c-4976-4917-9d73-8fb9aac96d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evaporación'])[1]/following::td[1]</value>
+      <webElementGuid>c219c378-37ba-4d55-a16f-f3bd676cd47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Precipitación'])[1]/preceding::td[1]</value>
+      <webElementGuid>612027bb-cbc9-4bf9-8e53-fbad95445aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td</value>
+      <webElementGuid>4e50e64a-66ed-4b28-8c84-171523233e6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Condensación' or . = 'Condensación')]</value>
+      <webElementGuid>3c8148a1-b60f-4647-a1e1-e9f6b1ff7552</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

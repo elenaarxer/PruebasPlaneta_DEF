@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_buttonPantalla_verciclodelagua</name>
+   <name>div_buttonPantalla_Esquema2</name>
    <tag></tag>
-   <elementGuidId>0d555d53-e363-4142-b7fe-f7bb83f18dfe</elementGuidId>
+   <elementGuidId>94592272-9fc0-425e-a08c-2b58eb01a64f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='pantalla_5']</value>
+         <value>//div[@id='pantalla_10']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>82343f53-3340-41b1-99e6-f4b74f2d8823</webElementGuid>
+      <webElementGuid>1813c59e-8ebc-4319-8087-cd4196e4163b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>material</value>
-      <webElementGuid>f30fcf27-a5b1-4ab4-90d1-ce67e2aa9f57</webElementGuid>
+      <webElementGuid>32e70bed-0cc8-427d-a9f2-0b818b99a0d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-tns-c319-45</value>
-      <webElementGuid>08f1782e-6532-4fe4-b8cf-25fd9d864d55</webElementGuid>
+      <webElementGuid>a5abb619-1852-4df4-9089-90d934646f04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://uat.aulaplaneta.com/Contenido/TemplatesCPCA/html5/v1/players/F1/Principal.html?_preload_data=/Contenido/Modulos/1-2110-1-27734/</value>
-      <webElementGuid>0392c845-6369-4c91-b349-cde29dcb3b07</webElementGuid>
+      <webElementGuid>efeac1e7-d63f-4d7f-919f-df0e5947dad6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,14 +54,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;material&quot;)</value>
-      <webElementGuid>92c7eae0-9ad8-4ed9-a14b-dafc8792ecb6</webElementGuid>
+      <webElementGuid>4d55293c-ef41-4427-abde-99364e028261</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//div[@id='pantalla_5']</value>
-      <webElementGuid>bacb37ef-9abb-4bd8-9739-28b1ab309696</webElementGuid>
+      <value>//div[@id='pantalla_10']</value>
+      <webElementGuid>c799b63b-a8b3-45d1-a447-029ee6c56cc0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

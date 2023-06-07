@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_30_VerCicloAgua_condensacion</name>
+   <tag></tag>
+   <elementGuidId>795f1342-185e-47f9-a8c5-b7a24cb5c523</elementGuidId>
+   <imagePath>../../Desktop/evaporacion.gif</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Desktop/evaporacion.gif</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div/div/div[2]/div[1]/div[8]/div[1]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#roundbutton_16 > #textButtonContainer > tbody > tr > td > #realContent</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'realContent' and (text() = 'Esquema del ciclo del agua' or . = 'Esquema del ciclo del agua')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c6fe5819-fecc-40fc-baa9-a1387b7dcd55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>realContent</value>
+      <webElementGuid>b93a2950-b2cc-4a03-895b-0b1859c83845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Esquema del ciclo del agua</value>
+      <webElementGuid>c1ebcb61-d5f5-4eea-9d8b-59900379d0e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;roundbutton_16&quot;)/table[@id=&quot;textButtonContainer&quot;]/tbody[1]/tr[1]/td[1]/div[@id=&quot;realContent&quot;]</value>
+      <webElementGuid>3fde2766-a167-4165-aeef-248463edb1d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/div/div/div[2]/div[1]/div[8]/div[1]/img</value>
+      <webElementGuid>229b1713-4ced-4f74-8b34-4f5e0f7ea14d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

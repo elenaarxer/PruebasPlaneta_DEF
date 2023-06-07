@@ -3,15 +3,15 @@
    <description></description>
    <name>img_30_Esquema</name>
    <tag></tag>
-   <elementGuidId>50e15290-ac0e-4533-8d74-40ddc2738b5b</elementGuidId>
+   <elementGuidId>9997793a-f664-41a4-92b5-1b7cc18eb131</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id=&quot;image_30&quot;]</value>
+         <value>/html/body/div[1]/div/div/div/div[2]/div[1]/div[6]/div[1]/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#roundbutton_16 > #textButtonContainer > tbody > tr > td > #realContent</value>
+         <value>span.title.font-weight-bold.pt-3.pr-2.pb-2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,39 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>3785c084-2119-46e6-a7c2-b7c504f1658a</webElementGuid>
+      <value>span</value>
+      <webElementGuid>cf4d7348-77d7-4382-8503-ee03dcef93a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>class</name>
       <type>Main</type>
-      <value>realContent</value>
-      <webElementGuid>b5ffbe1e-0cb5-41e4-8349-b4c4a00c7981</webElementGuid>
+      <value>title font-weight-bold pt-3 pr-2 pb-2</value>
+      <webElementGuid>d404bbb3-8bec-4e8a-a12d-0c43e4aebdf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Esquema del ciclo del agua</value>
-      <webElementGuid>7495db35-59b8-4c4b-b93d-006387fb8156</webElementGuid>
+      <value>El ciclo del agua</value>
+      <webElementGuid>a1bf0af2-8bc5-4bab-b0f4-3ee689813564</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;roundbutton_16&quot;)/table[@id=&quot;textButtonContainer&quot;]/tbody[1]/tr[1]/td[1]/div[@id=&quot;realContent&quot;]</value>
-      <webElementGuid>fea5c266-d6c6-455d-a025-cd4323747f2d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_Esquemadelciclodelagua</value>
-      <webElementGuid>593d1a25-e5d9-4bb3-bc14-9c07813e89e3</webElementGuid>
+      <value>id(&quot;recursos-results&quot;)/cdk-virtual-scroll-viewport[@class=&quot;cdk-virtual-scroll-viewport vsv-body cdk-virtual-scroll-orientation-vertical ng-star-inserted&quot;]/div[@class=&quot;cdk-virtual-scroll-content-wrapper&quot;]/table[@class=&quot;mat-table cdk-table mat-sort w-100 mb-5 default-table&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row base card-row marronMS ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cursor-pointer cdk-column-titulo mat-column-titulo ng-star-inserted&quot;]/div[@class=&quot;d-flex align-items-start card-cell card-cell__start custom-bg__light&quot;]/span[@class=&quot;title font-weight-bold pt-3 pr-2 pb-2&quot;]</value>
+      <webElementGuid>47072b06-a92e-4437-acdf-dfe3e590557d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id=&quot;image_30&quot;]</value>
-      <webElementGuid>496af2d2-53be-4a5b-895c-4b75fb8193e0</webElementGuid>
+      <value>/html/body/div[1]/div/div/div/div[2]/div[1]/div[6]/div[1]/img</value>
+      <webElementGuid>39afe38b-c594-4f7b-9103-4605a4ed2c6f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

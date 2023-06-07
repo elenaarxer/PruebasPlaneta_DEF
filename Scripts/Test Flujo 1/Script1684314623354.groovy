@@ -39,15 +39,21 @@ WebUI.click(findTestObject('Object Repository/Page_Mis materias - aulaPlaneta/sp
 WebUI.click(findTestObject('Page_Mis materias - aulaPlaneta/div_buttonRoundButton_Esquemadelcilcodelagua'))
 
 'Verifica si esta el requadre del video'
-EsquemaSuccessFul = WebUI.verifyElementVisible(findTestObject('Page_Mis materias - aulaPlaneta/img_30_Esquema2'))
+EsquemaSuccessFul = WebUI.verifyElementVisible(findTestObject('Page_Mis materias - aulaPlaneta/img_30_Esquema'))
 
 WebUI.click(findTestObject('Page_Mis materias - aulaPlaneta/div_buttonRoundButton_verciclodelagua'))
 
-VerCicloSuccessful = WebUI.verifyElementPresent(findTestObject('Page_Mis materias - aulaPlaneta/img_30_Esquema'), 0)
+'Verifica si esta el requadre del video'
+VerCicloESuccessFul = WebUI.verifyElementVisible(findTestObject('Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_evaporacion'))
 
-if (EsquemaSuccessFul) {
-    JOptionPane.showMessageDialog(new Frame('Test 1 result'), 'Video shown successful.')
-}
+'Verifica si esta el requadre del video'
+VerCicloCSuccessFul = WebUI.verifyElementVisible(findTestObject('Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_condensacion'))
+
+'Verifica si esta el requadre del video'
+VerCicloPSuccessFul = WebUI.verifyElementVisible(findTestObject('Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_precipitacion'))
+
+'Verifica si esta el requadre del video'
+VerCicloFSuccessFul = WebUI.verifyElementVisible(findTestObject('Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_filtracion'))
 
 WebUI.closeBrowser()
 

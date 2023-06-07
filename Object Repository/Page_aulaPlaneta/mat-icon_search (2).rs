@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_search (2)</name>
+   <tag></tag>
+   <elementGuidId>3aa81ce4-58ef-4cd5-8828-dce67980beff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/div/div/div/a[5]/div/mat-icon</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-list-item.mat-focus-indicator.mat-tooltip-trigger.ng-tns-c228-1.ng-star-inserted.cdk-focused.cdk-mouse-focused > div.mat-list-item-content > mat-icon.mat-icon.notranslate.material-icons-round.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>635d6ab8-0a99-49e6-ba7a-8aab0454595f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a18411c0-3e60-4409-ac72-14f309dc0af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7d27bb64-5c31-416e-8a34-9d7f7b3715d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons-round mat-icon-no-color</value>
+      <webElementGuid>4a3220b4-467a-4e0a-b079-e99c774d569d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-mat-icon-type</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>4365183c-6ec1-4c50-a26e-c3848adf469c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>e9c7dfd6-21b6-4d28-80a9-fc17f5b27ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/div[@class=&quot;content ng-tns-c228-1 ng-trigger ng-trigger-routeAnimations&quot;]/div[@class=&quot;menu-column position-fixed d-flex flex-column align-items-center ng-tns-c228-1 ng-star-inserted&quot;]/div[@class=&quot;primaryMenu ng-tns-c228-1&quot;]/a[@class=&quot;mat-list-item mat-focus-indicator mat-tooltip-trigger ng-tns-c228-1 ng-star-inserted cdk-focused cdk-mouse-focused&quot;]/div[@class=&quot;mat-list-item-content&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons-round mat-icon-no-color&quot;]</value>
+      <webElementGuid>ec4368eb-c70f-4a8c-b799-bd6674ac7439</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/div/div/div/a[5]/div/mat-icon</value>
+      <webElementGuid>aee8d42e-6c57-4f06-ace8-486f626e48b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='people'])[2]/following::mat-icon[1]</value>
+      <webElementGuid>289c8de9-fcbc-4beb-82dc-8e055d5a52cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='assignment_ind'])[2]/following::mat-icon[2]</value>
+      <webElementGuid>881748f1-19d8-4c62-848e-cffd0896f3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='widgets'])[2]/preceding::mat-icon[1]</value>
+      <webElementGuid>541bcd25-c4fc-4697-84e7-ca5bfeb38352</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='work'])[2]/preceding::mat-icon[2]</value>
+      <webElementGuid>80b77c6d-7edb-46ae-8b61-d5c4e1a9aff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div/mat-icon</value>
+      <webElementGuid>cd719c19-d5f2-4496-96c7-8d7d3d93fd72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'search' or . = 'search')]</value>
+      <webElementGuid>b6d0516a-fd0f-4e29-8a6b-b72a203f2c16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

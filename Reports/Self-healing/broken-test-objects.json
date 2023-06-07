@@ -1,3 +1,114 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_verciclodelagua",
+      "brokenLocator": "//div[@id\u003d\u0027pantalla_37\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@id \u003d \u0027material\u0027 and @src \u003d \u0027https://uat.aulaplaneta.com/Contenido/TemplatesCPCA/html5/v1/players/F1/Principal.html?_preload_data\u003d/Contenido/Modulos/1-2110-1-27734/\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_verciclodelagua_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/img_30_Esquema2",
+      "brokenLocator": "//div[@id\u003d\"image_30\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[(text() \u003d \u0027El ciclo del agua\u0027 or . \u003d \u0027El ciclo del agua\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/img_30_Esquema2_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/img_30_Esquema",
+      "brokenLocator": "//div[@id\u003d\"image_30\"]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[(text() \u003d \u0027El ciclo del agua\u0027 or . \u003d \u0027El ciclo del agua\u0027)]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/img_30_Esquema_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua",
+      "brokenLocator": "/html/body/div[1]/div/div/div/div[2]/div[1]/div[2]/div[1]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027wrapper\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "IMAGE",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_IMAGE.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_evaporacion",
+      "brokenLocator": "/html/body/div[1]/div/div/div/div[2]/div[1]/div[2]/div[1]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027wrapper\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "IMAGE",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_evaporacion_IMAGE.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_condensacion",
+      "brokenLocator": "/html/body/div[1]/div/div/div/div[2]/div[1]/div[8]/div[1]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027wrapper\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "IMAGE",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_condensacion_IMAGE.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_precipitacion",
+      "brokenLocator": "/html/body/div[1]/div/div/div/div[2]/div[1]/div[9]/div[1]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027wrapper\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "IMAGE",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_precipitacion_IMAGE.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_filtracion",
+      "brokenLocator": "/html/body/div[1]/div/div/div/div[2]/div[1]/div[10]/div[1]/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027wrapper\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "IMAGE",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/img_30_VerCicloAgua_filtracion_IMAGE.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_Esquema2",
+      "brokenLocator": "//div[@id\u003d\u0027pantalla_37\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@id \u003d \u0027material\u0027 and @src \u003d \u0027https://uat.aulaplaneta.com/Contenido/TemplatesCPCA/html5/v1/players/F1/Principal.html?_preload_data\u003d/Contenido/Modulos/1-2110-1-27734/\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/div_buttonPantalla_Esquema2_BASIC.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_aulaPlaneta/mat-icon_search",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027people\u0027])[2]/following::mat-icon[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027people\u0027])[2]/following::mat-icon[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_aulaPlaneta/mat-icon_search_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/div_buttonRoundButton_Esquemadelcilcodelagua",
+      "brokenLocator": "//div[@id\u003d\u0027roundbutton_16\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027roundbutton_16\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/div_buttonRoundButton_Esquemadelcilcodelagua_attributes.png"
+    }
+  ]
 }
