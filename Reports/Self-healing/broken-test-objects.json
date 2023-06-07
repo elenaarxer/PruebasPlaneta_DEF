@@ -109,6 +109,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/div_buttonRoundButton_Esquemadelcilcodelagua_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/span_El ciclo del agua",
+      "brokenLocator": "//div[@id\u003d\u0027recursos-results\u0027]/cdk-virtual-scroll-viewport/div/table/tbody/tr/td/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Ciencias sociales PRO\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/span_El ciclo del agua_neighbor.png"
     }
   ]
 }
