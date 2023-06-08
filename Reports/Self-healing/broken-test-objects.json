@@ -129,6 +129,16 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/span_El ciclo del agua_customAttributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mis materias - aulaPlaneta/div_buttonRoundButton_Esquemadelcilcodelagua",
+      "brokenLocator": "//div[@id\u003d\u0027roundbutton_16\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*[@id \u003d \u0027image_30\u0027]",
+      "proposedLocatorMethod": "BASIC",
+      "recoveryMethod": "BASIC",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mis materias - aulaPlaneta/div_buttonRoundButton_Esquemadelcilcodelagua_BASIC.png"
     }
   ]
 }
