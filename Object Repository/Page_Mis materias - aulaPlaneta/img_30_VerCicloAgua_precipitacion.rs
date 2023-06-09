@@ -31,7 +31,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>9c08f4af-f02c-4b09-9b9b-3bbf9b6ad7c5</webElementGuid>
+      <webElementGuid>79bc03ef-dc35-443d-b7a7-4ae49856ccec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>realContent</value>
-      <webElementGuid>287c647c-acc6-470f-8db6-a60d9772f5ae</webElementGuid>
+      <webElementGuid>84e59c79-3b90-44bc-ad5b-566f32ff4f20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Esquema del ciclo del agua</value>
-      <webElementGuid>9ff789d9-6f8e-4f4c-8b84-1dde4a8e4408</webElementGuid>
+      <webElementGuid>446fea67-d886-43b1-aab7-e6128e7cc97a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,14 +55,14 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;roundbutton_16&quot;)/table[@id=&quot;textButtonContainer&quot;]/tbody[1]/tr[1]/td[1]/div[@id=&quot;realContent&quot;]</value>
-      <webElementGuid>246fba07-e65e-4f7e-8c3c-770b7f9237f8</webElementGuid>
+      <webElementGuid>6d5621d0-8974-4dea-8a5b-090e125b1866</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
       <value>/html/body/div[1]/div/div/div/div[2]/div[1]/div[9]/div[1]/img</value>
-      <webElementGuid>db74574f-e35f-4861-a228-3f50a116569c</webElementGuid>
+      <webElementGuid>9323f506-29b5-4060-a2c5-353144c38f85</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
